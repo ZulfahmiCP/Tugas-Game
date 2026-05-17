@@ -1,0 +1,2771 @@
+fileFormatVersion: 2
+guid: 27129343a318f794ea3140d875e2c68f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6092001180696985639
+    second: groudon_left_0
+  - first:
+      213: -3365005248386998436
+    second: groudon_left_1
+  - first:
+      213: -4875079967817835412
+    second: groudon_left_2
+  - first:
+      213: 8403982509926722630
+    second: groudon_left_3
+  - first:
+      213: 6178476930472196770
+    second: groudon_left_4
+  - first:
+      213: 6705254949784546600
+    second: groudon_left_5
+  - first:
+      213: -984314559327532290
+    second: groudon_left_6
+  - first:
+      213: 5074115279089305970
+    second: groudon_left_7
+  - first:
+      213: 5645754959937614709
+    second: groudon_left_8
+  - first:
+      213: -5926904749052675604
+    second: groudon_left_9
+  - first:
+      213: -4388220403913600629
+    second: groudon_left_10
+  - first:
+      213: 8158937036981038535
+    second: groudon_left_11
+  - first:
+      213: -8401579283011475747
+    second: groudon_left_12
+  - first:
+      213: -7623887418523640605
+    second: groudon_left_13
+  - first:
+      213: 4759178602676713078
+    second: groudon_left_14
+  - first:
+      213: 1269087063130922685
+    second: groudon_left_15
+  - first:
+      213: -6731931019141236611
+    second: groudon_left_16
+  - first:
+      213: -75874579831628320
+    second: groudon_left_17
+  - first:
+      213: -604526007409395685
+    second: groudon_left_18
+  - first:
+      213: 1492141143583979168
+    second: groudon_left_19
+  - first:
+      213: 6594414331600153151
+    second: groudon_left_20
+  - first:
+      213: -542943776263219797
+    second: groudon_left_21
+  - first:
+      213: 2010463932952033264
+    second: groudon_left_22
+  - first:
+      213: 4544043890902822596
+    second: groudon_left_23
+  - first:
+      213: 3565983357355790443
+    second: groudon_left_24
+  - first:
+      213: -955328438504351776
+    second: groudon_left_25
+  - first:
+      213: -7777967224258438281
+    second: groudon_left_26
+  - first:
+      213: 5289452036450270486
+    second: groudon_left_27
+  - first:
+      213: -841389172216026814
+    second: groudon_left_28
+  - first:
+      213: -6556292395950496148
+    second: groudon_left_29
+  - first:
+      213: 872683081277429653
+    second: groudon_left_30
+  - first:
+      213: 3301526881523690557
+    second: groudon_left_31
+  - first:
+      213: -756371250417353514
+    second: groudon_left_32
+  - first:
+      213: -5199021992504047974
+    second: groudon_left_33
+  - first:
+      213: -5243251732509444062
+    second: groudon_left_34
+  - first:
+      213: -1192923734775901092
+    second: groudon_left_35
+  - first:
+      213: 7512030469545748712
+    second: groudon_left_36
+  - first:
+      213: -2614604579399019857
+    second: groudon_left_37
+  - first:
+      213: 1895630744456609548
+    second: groudon_left_38
+  - first:
+      213: 5981005397281672262
+    second: groudon_left_39
+  - first:
+      213: 8291023568125808370
+    second: groudon_left_40
+  - first:
+      213: -7347000743747916575
+    second: groudon_left_41
+  - first:
+      213: 7469477691974247481
+    second: groudon_left_42
+  - first:
+      213: 6984650825838963280
+    second: groudon_left_43
+  - first:
+      213: 5240536503008360494
+    second: groudon_left_44
+  - first:
+      213: 7893273595838314084
+    second: groudon_left_45
+  - first:
+      213: -6729480711661659047
+    second: groudon_left_46
+  - first:
+      213: -868595285920947519
+    second: groudon_left_47
+  - first:
+      213: 7675772359842470670
+    second: groudon_left_48
+  - first:
+      213: -8718711259734210598
+    second: groudon_left_49
+  - first:
+      213: -7017098334958920641
+    second: groudon_left_50
+  - first:
+      213: 628465654847168015
+    second: groudon_left_51
+  - first:
+      213: 1416391381239306841
+    second: groudon_left_52
+  - first:
+      213: 4126349988350760745
+    second: groudon_left_53
+  - first:
+      213: 6299378609378063685
+    second: groudon_left_54
+  - first:
+      213: 5588407803987066743
+    second: groudon_left_55
+  - first:
+      213: -8615326275863814535
+    second: groudon_left_56
+  - first:
+      213: 132440329345787913
+    second: groudon_left_57
+  - first:
+      213: 4569248781297573625
+    second: groudon_left_58
+  - first:
+      213: -5686003904956451959
+    second: groudon_left_59
+  - first:
+      213: -1346726090340495287
+    second: groudon_left_60
+  - first:
+      213: 6413322586029767430
+    second: groudon_left_61
+  - first:
+      213: 8313984575525993527
+    second: groudon_left_62
+  - first:
+      213: 8079469352248097575
+    second: groudon_left_63
+  - first:
+      213: 3501128530911845452
+    second: groudon_left_64
+  - first:
+      213: 2057813894073529690
+    second: groudon_left_65
+  - first:
+      213: 8942380584598436551
+    second: groudon_left_66
+  - first:
+      213: 1175325009257855564
+    second: groudon_left_67
+  - first:
+      213: -5091966552149886268
+    second: groudon_left_68
+  - first:
+      213: -8756373494900393677
+    second: groudon_left_69
+  - first:
+      213: -6883890488022921954
+    second: groudon_left_70
+  - first:
+      213: 5163814592775552926
+    second: groudon_left_71
+  - first:
+      213: 8276066641010864000
+    second: groudon_left_72
+  - first:
+      213: -891347668750054371
+    second: groudon_left_73
+  - first:
+      213: 7895248596687148783
+    second: groudon_left_74
+  - first:
+      213: -990493086997321252
+    second: groudon_left_75
+  - first:
+      213: -8135415252404166672
+    second: groudon_left_76
+  - first:
+      213: -7868670819202308731
+    second: groudon_left_77
+  - first:
+      213: -5559708964050155135
+    second: groudon_left_78
+  - first:
+      213: -6726101104378727867
+    second: groudon_left_79
+  - first:
+      213: -4035072368303159901
+    second: groudon_left_80
+  - first:
+      213: 8708266053254590054
+    second: groudon_left_81
+  - first:
+      213: 438284785403289412
+    second: groudon_left_82
+  - first:
+      213: 4920586847557998256
+    second: groudon_left_83
+  - first:
+      213: 6729060963995283368
+    second: groudon_left_84
+  - first:
+      213: 3526495190254252915
+    second: groudon_left_85
+  - first:
+      213: 1164358245543072356
+    second: groudon_left_86
+  - first:
+      213: 7340428763410191430
+    second: groudon_left_87
+  - first:
+      213: -9136940090024089697
+    second: groudon_left_88
+  - first:
+      213: 3118108111899813192
+    second: groudon_left_89
+  - first:
+      213: -3875735982859236441
+    second: groudon_left_90
+  - first:
+      213: -3885488567432296104
+    second: groudon_left_91
+  - first:
+      213: -1264782771919605864
+    second: groudon_left_92
+  - first:
+      213: 819494587377692299
+    second: groudon_left_93
+  - first:
+      213: -1681970937388102819
+    second: groudon_left_94
+  - first:
+      213: -9180563989701107400
+    second: groudon_left_95
+  - first:
+      213: -1202915351403335550
+    second: groudon_left_96
+  - first:
+      213: 5312288773402925648
+    second: groudon_left_97
+  - first:
+      213: 68928798684697014
+    second: groudon_left_98
+  - first:
+      213: -8670897219775356112
+    second: groudon_left_99
+  - first:
+      213: 7497848049919488116
+    second: groudon_left_100
+  - first:
+      213: -5824987817015617043
+    second: groudon_left_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: groudon_left_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1584
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfbb45f33dd47ba0800000000000000
+      internalID: -6092001180696985639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1584
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f519e1e891d41d0800000000000000
+      internalID: -3365005248386998436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1583
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c589a399c385cb0800000000000000
+      internalID: -4875079967817835412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1582
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c27ca0191f0a470800000000000000
+      internalID: 8403982509926722630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1580
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aabdb5880c5eb550800000000000000
+      internalID: 6178476930472196770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1503
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d6652d9d9dd0d50800000000000000
+      internalID: 6705254949784546600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_6
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1505
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa89089f130752f0800000000000000
+      internalID: -984314559327532290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1505
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279008766f0ea6640800000000000000
+      internalID: 5074115279089305970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1505
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5733bfb3930c95e40800000000000000
+      internalID: 5645754959937614709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1505
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9b32768876fbda0800000000000000
+      internalID: -5926904749052675604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1426
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81db9cdac8e913c0800000000000000
+      internalID: -4388220403913600629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_11
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1426
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd680ad10e5a3170800000000000000
+      internalID: 8158937036981038535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1426
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6e1d3d728976b80800000000000000
+      internalID: -8401579283011475747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1425
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec145339c2823690800000000000000
+      internalID: -7623887418523640605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_14
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1424
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6767f2359bffb0240800000000000000
+      internalID: 4759178602676713078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1344
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe56f2c5f3bc9110800000000000000
+      internalID: 1269087063130922685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_16
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1345
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7837a7c7606392a0800000000000000
+      internalID: -6731931019141236611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_17
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1347
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed57adb87072fef0800000000000000
+      internalID: -75874579831628320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1347
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18b0e69cca4c97f0800000000000000
+      internalID: -604526007409395685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_19
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1347
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a67112e67625b410800000000000000
+      internalID: 1492141143583979168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1268
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3aa5c855e0148b50800000000000000
+      internalID: 6594414331600153151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1268
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba552da13831778f0800000000000000
+      internalID: -542943776263219797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_22
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1268
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7375d8b4a96eb10800000000000000
+      internalID: 2010463932952033264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_23
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1268
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ceeb09e7dfaf0f30800000000000000
+      internalID: 4544043890902822596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_24
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1267
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60952a58faec7130800000000000000
+      internalID: 3565983357355790443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1187
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e79e13c8ddfdb2f0800000000000000
+      internalID: -955328438504351776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_26
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1185
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bd17bd40c1f0490800000000000000
+      internalID: -7777967224258438281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_27
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1187
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61db5193a98e76940800000000000000
+      internalID: 5289452036450270486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1189
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24924387109c254f0800000000000000
+      internalID: -841389172216026814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_29
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1189
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66a6c77dce5305a0800000000000000
+      internalID: -6556292395950496148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1110
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597d80583a46c1c00800000000000000
+      internalID: 872683081277429653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_31
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1110
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c6f9dd43161dd20800000000000000
+      internalID: 3301526881523690557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_32
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1110
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc3e8cea54d085f0800000000000000
+      internalID: -756371250417353514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_33
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1109
+        width: 87
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a964a5d1b0d59d7b0800000000000000
+      internalID: -5199021992504047974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_34
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1109
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228b2d7445a3c37b0800000000000000
+      internalID: -5243251732509444062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1031
+        width: 89
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54dc800f22e17fe0800000000000000
+      internalID: -1192923734775901092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_36
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1031
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e86f2f59e7104860800000000000000
+      internalID: 7512030469545748712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_37
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1031
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2dfc0ecfe07bbd0800000000000000
+      internalID: -2614604579399019857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_38
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1031
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f35ac5e12ae4a10800000000000000
+      internalID: 1895630744456609548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_39
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1031
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c0ba858bcc00350800000000000000
+      internalID: 5981005397281672262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 952
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fec78ae102af0370800000000000000
+      internalID: 8291023568125808370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_41
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 952
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecef58efb53a0a90800000000000000
+      internalID: -7347000743747916575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_42
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 952
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93464d7c26ae8a760800000000000000
+      internalID: 7469477691974247481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_43
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 952
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a254a7be67ee060800000000000000
+      internalID: 6984650825838963280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_44
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 951
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28f7461f202ab840800000000000000
+      internalID: 5240536503008360494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 871
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466b9ead38a8a8d60800000000000000
+      internalID: 7893273595838314084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_46
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 869
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c509272f41c92a0800000000000000
+      internalID: -6729480711661659047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_47
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 871
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c26a11803122f3f0800000000000000
+      internalID: -868595285920947519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_48
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 873
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b1c251b42d58a60800000000000000
+      internalID: 7675772359842470670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_49
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 873
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad708509d4ae00780800000000000000
+      internalID: -8718711259734210598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 794
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cd9c61e324e9e90800000000000000
+      internalID: -7017098334958920641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_51
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 794
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ed2beee22c8b800800000000000000
+      internalID: 628465654847168015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_52
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 794
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a91b5f47808a310800000000000000
+      internalID: 1416391381239306841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_53
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 793
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927959ab37db34930800000000000000
+      internalID: 4126349988350760745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_54
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 792
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5457cad3873eb6750800000000000000
+      internalID: 6299378609378063685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_55
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 711
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f7ba00a430e8d40800000000000000
+      internalID: 5588407803987066743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_56
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 713
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e5c07e566307880800000000000000
+      internalID: -8615326275863814535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_57
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 715
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908679027c586d100800000000000000
+      internalID: 132440329345787913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_58
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 715
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fed0a3ce8b396f30800000000000000
+      internalID: 4569248781297573625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_59
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 715
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983369df2914711b0800000000000000
+      internalID: -5686003904956451959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 636
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940118f81c77f4de0800000000000000
+      internalID: -1346726090340495287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_61
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 636
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b3b4aa9e2b00950800000000000000
+      internalID: 6413322586029767430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_62
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 636
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cbd4c0ce4316370800000000000000
+      internalID: 8313984575525993527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_63
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 636
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b376aa19a002070800000000000000
+      internalID: 8079469352248097575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_64
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 635
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c5cfd59d1869030800000000000000
+      internalID: 3501128530911845452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_65
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 555
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55bd1a75d2de8c10800000000000000
+      internalID: 2057813894073529690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_66
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 554
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7caf65f43c7b91c70800000000000000
+      internalID: 8942380584598436551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_67
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 555
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a72786ed79f4010800000000000000
+      internalID: 1175325009257855564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_68
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 557
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca7fe23663b559b0800000000000000
+      internalID: -5091966552149886268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_69
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 557
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339f0db13bc1b7680800000000000000
+      internalID: -8756373494900393677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 478
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d04b4d2128770a0800000000000000
+      internalID: -6883890488022921954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_71
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 478
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f7d58530e89a740800000000000000
+      internalID: 5163814592775552926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_72
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 478
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fa9e2f2ce7ad270800000000000000
+      internalID: 8276066641010864000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 478
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cc7c0940c41a3f0800000000000000
+      internalID: -891347668750054371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_74
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 478
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe650f294ce819d60800000000000000
+      internalID: 7895248596687148783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_75
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 398
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd96b0509cf0142f0800000000000000
+      internalID: -990493086997321252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_76
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 397
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff97246ee2391f80800000000000000
+      internalID: -8135415252404166672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_77
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 395
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585e6f6749ddcc290800000000000000
+      internalID: -7868670819202308731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_78
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 397
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1894c3f5722f7d2b0800000000000000
+      internalID: -5559708964050155135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_79
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 399
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542b4269ea618a2a0800000000000000
+      internalID: -6726101104378727867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 320
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5cb4c4f0b8008c0800000000000000
+      internalID: -4035072368303159901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_81
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 320
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e25d946d9f9d870800000000000000
+      internalID: 8708266053254590054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_82
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 320
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fdb60b0b9151600800000000000000
+      internalID: 438284785403289412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_83
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 320
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6572fdaaf694440800000000000000
+      internalID: 4920586847557998256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_84
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 319
+        width: 87
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afe2ee6b4d626d50800000000000000
+      internalID: 6729060963995283368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_85
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 240
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3737a3df0b0a0f030800000000000000
+      internalID: 3526495190254252915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_86
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 241
+        width: 89
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46254e0c7a1a82010800000000000000
+      internalID: 1164358245543072356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_87
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 241
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644df1ea1117ed560800000000000000
+      internalID: 7340428763410191430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_88
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 241
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97a610d561133180800000000000000
+      internalID: -9136940090024089697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_89
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 241
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8456d0daeceb54b20800000000000000
+      internalID: 3118108111899813192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_90
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 162
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abc97a78ae963ac0800000000000000
+      internalID: -3875735982859236441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_91
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 162
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8594b5febb8f31ac0800000000000000
+      internalID: -3885488567432296104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_92
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 162
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fa2b125c6927ee0800000000000000
+      internalID: -1264782771919605864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_93
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 162
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ea0004cfd6f5b00800000000000000
+      internalID: 819494587377692299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_94
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 162
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b837a085078a8e0800000000000000
+      internalID: -1681970937388102819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_95
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 82
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8316f1c21b5189080800000000000000
+      internalID: -9180563989701107400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_96
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 81
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2807db87cd26e4fe0800000000000000
+      internalID: -1202915351403335550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_97
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 79
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a1af26e7a09b940800000000000000
+      internalID: 5312288773402925648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_98
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 81
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b155609062e4f000800000000000000
+      internalID: 68928798684697014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_99
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 83
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0332e534be8caa780800000000000000
+      internalID: -8670897219775356112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_100
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4707e4b7315bd0860800000000000000
+      internalID: 7497848049919488116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groudon_left_101
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 4
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de95ec9417c792fa0800000000000000
+      internalID: -5824987817015617043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2b12de9560477154eaae9ca0505772ad
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      groudon_left_0: -6092001180696985639
+      groudon_left_1: -3365005248386998436
+      groudon_left_10: -4388220403913600629
+      groudon_left_100: 7497848049919488116
+      groudon_left_101: -5824987817015617043
+      groudon_left_11: 8158937036981038535
+      groudon_left_12: -8401579283011475747
+      groudon_left_13: -7623887418523640605
+      groudon_left_14: 4759178602676713078
+      groudon_left_15: 1269087063130922685
+      groudon_left_16: -6731931019141236611
+      groudon_left_17: -75874579831628320
+      groudon_left_18: -604526007409395685
+      groudon_left_19: 1492141143583979168
+      groudon_left_2: -4875079967817835412
+      groudon_left_20: 6594414331600153151
+      groudon_left_21: -542943776263219797
+      groudon_left_22: 2010463932952033264
+      groudon_left_23: 4544043890902822596
+      groudon_left_24: 3565983357355790443
+      groudon_left_25: -955328438504351776
+      groudon_left_26: -7777967224258438281
+      groudon_left_27: 5289452036450270486
+      groudon_left_28: -841389172216026814
+      groudon_left_29: -6556292395950496148
+      groudon_left_3: 8403982509926722630
+      groudon_left_30: 872683081277429653
+      groudon_left_31: 3301526881523690557
+      groudon_left_32: -756371250417353514
+      groudon_left_33: -5199021992504047974
+      groudon_left_34: -5243251732509444062
+      groudon_left_35: -1192923734775901092
+      groudon_left_36: 7512030469545748712
+      groudon_left_37: -2614604579399019857
+      groudon_left_38: 1895630744456609548
+      groudon_left_39: 5981005397281672262
+      groudon_left_4: 6178476930472196770
+      groudon_left_40: 8291023568125808370
+      groudon_left_41: -7347000743747916575
+      groudon_left_42: 7469477691974247481
+      groudon_left_43: 6984650825838963280
+      groudon_left_44: 5240536503008360494
+      groudon_left_45: 7893273595838314084
+      groudon_left_46: -6729480711661659047
+      groudon_left_47: -868595285920947519
+      groudon_left_48: 7675772359842470670
+      groudon_left_49: -8718711259734210598
+      groudon_left_5: 6705254949784546600
+      groudon_left_50: -7017098334958920641
+      groudon_left_51: 628465654847168015
+      groudon_left_52: 1416391381239306841
+      groudon_left_53: 4126349988350760745
+      groudon_left_54: 6299378609378063685
+      groudon_left_55: 5588407803987066743
+      groudon_left_56: -8615326275863814535
+      groudon_left_57: 132440329345787913
+      groudon_left_58: 4569248781297573625
+      groudon_left_59: -5686003904956451959
+      groudon_left_6: -984314559327532290
+      groudon_left_60: -1346726090340495287
+      groudon_left_61: 6413322586029767430
+      groudon_left_62: 8313984575525993527
+      groudon_left_63: 8079469352248097575
+      groudon_left_64: 3501128530911845452
+      groudon_left_65: 2057813894073529690
+      groudon_left_66: 8942380584598436551
+      groudon_left_67: 1175325009257855564
+      groudon_left_68: -5091966552149886268
+      groudon_left_69: -8756373494900393677
+      groudon_left_7: 5074115279089305970
+      groudon_left_70: -6883890488022921954
+      groudon_left_71: 5163814592775552926
+      groudon_left_72: 8276066641010864000
+      groudon_left_73: -891347668750054371
+      groudon_left_74: 7895248596687148783
+      groudon_left_75: -990493086997321252
+      groudon_left_76: -8135415252404166672
+      groudon_left_77: -7868670819202308731
+      groudon_left_78: -5559708964050155135
+      groudon_left_79: -6726101104378727867
+      groudon_left_8: 5645754959937614709
+      groudon_left_80: -4035072368303159901
+      groudon_left_81: 8708266053254590054
+      groudon_left_82: 438284785403289412
+      groudon_left_83: 4920586847557998256
+      groudon_left_84: 6729060963995283368
+      groudon_left_85: 3526495190254252915
+      groudon_left_86: 1164358245543072356
+      groudon_left_87: 7340428763410191430
+      groudon_left_88: -9136940090024089697
+      groudon_left_89: 3118108111899813192
+      groudon_left_9: -5926904749052675604
+      groudon_left_90: -3875735982859236441
+      groudon_left_91: -3885488567432296104
+      groudon_left_92: -1264782771919605864
+      groudon_left_93: 819494587377692299
+      groudon_left_94: -1681970937388102819
+      groudon_left_95: -9180563989701107400
+      groudon_left_96: -1202915351403335550
+      groudon_left_97: 5312288773402925648
+      groudon_left_98: 68928798684697014
+      groudon_left_99: -8670897219775356112
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
