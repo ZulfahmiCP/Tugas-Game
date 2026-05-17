@@ -1,7 +1,7 @@
 # Tugas-Game
 
 # Struktur Folder
-
+```
 📁 Assets
 ┣ 📁 _Scenes (Simpan scene MainMenu, Map, dan Battle di sini)
 ┣ 📁 Data (Tempat menyimpan file Scriptable Object ke-10 Monster nanti)
@@ -14,3 +14,4 @@
 ┗ 📁 Sprites (Tempat gambar PNG)
 ┣ 📁 Backgrounds (Gambar Map/Gym)
 ┗ 📁 UI (Tombol, Bar HP, dll)
+```
